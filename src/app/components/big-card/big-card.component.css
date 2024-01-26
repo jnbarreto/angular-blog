@@ -14,10 +14,11 @@
   font-size: 25px;
   margin-top: 15px;
   margin-left: 10px;
+  margin-bottom: 10px;
 }
 
-.big-card__title {
-  margin: 10px;
+.big-card__title > p {
+  margin-left: 10px;
 }
 
 .big-card__title > p > a {
