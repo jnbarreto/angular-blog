@@ -1,0 +1,10 @@
+.container__header > ul {
+  display: flex;
+  flex-direction: row;
+  text-transform: capitalize;
+}
+
+.container__header > ul > li {
+  margin-right: 20px;
+  list-style: none;
+}

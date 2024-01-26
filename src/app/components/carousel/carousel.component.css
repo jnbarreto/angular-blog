@@ -3,6 +3,8 @@
   margin-bottom: 15px;
   display: flex;
   justify-content: center;
+
+  font-size: 80px;
 }
 
 .container__carousel > hr {
